@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-21T23:27:17 IST" name="Default suite" finished-at="2022-07-21T23:27:17 IST" duration-ms="120">
+    <groups>
+    </groups>
+    <test started-at="2022-07-21T23:27:17 IST" name="Default test" finished-at="2022-07-21T23:27:17 IST" duration-ms="120">
+      <class name="com.testRCBTeam.Test1">
+        <test-method signature="atLeastOneWicketKeeper()[pri:0, instance:com.testRCBTeam.Test1@47d90b9e]" started-at="2022-07-21T23:27:17 IST" name="atLeastOneWicketKeeper" finished-at="2022-07-21T23:27:17 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atLeastOneWicketKeeper -->
+        <test-method signature="only4ForeignPlayers()[pri:0, instance:com.testRCBTeam.Test1@47d90b9e]" started-at="2022-07-21T23:27:17 IST" name="only4ForeignPlayers" finished-at="2022-07-21T23:27:17 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- only4ForeignPlayers -->
+      </class> <!-- com.testRCBTeam.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
